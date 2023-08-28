@@ -6,3 +6,6 @@ print(f'{x} + {y} = {(x+y)}')
 
 username = input("Enter username:")
 print(f"Username is: {username}")
+
+name = "obed"
+print(f"My name is : {name}")
