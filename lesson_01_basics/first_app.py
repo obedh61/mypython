@@ -8,4 +8,5 @@ username = input("Enter username:")
 print(f"Username is: {username}")
 
 name = "obed"
-print(f"My name is : {name}")
+lastname = "herrera"
+print(f"My name is : {name} and my lastname is {lastname}")
